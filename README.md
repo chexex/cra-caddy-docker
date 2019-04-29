@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/chexex/cra-caddy-docker.svg?branch=master)](https://travis-ci.org/chexex/cra-caddy-docker)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
