@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cra-caddy-docker/static/css/main.584f321a.chunk.css",
+    "main.js": "/cra-caddy-docker/static/js/main.e43f2ad0.chunk.js",
+    "main.js.map": "/cra-caddy-docker/static/js/main.e43f2ad0.chunk.js.map",
+    "runtime~main.js": "/cra-caddy-docker/static/js/runtime~main.9cfec011.js",
+    "runtime~main.js.map": "/cra-caddy-docker/static/js/runtime~main.9cfec011.js.map",
+    "static/js/2.b41502e9.chunk.js": "/cra-caddy-docker/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/cra-caddy-docker/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/cra-caddy-docker/index.html",
+    "precache-manifest.e01039a83ab854a3d01acc8cc027c522.js": "/cra-caddy-docker/precache-manifest.e01039a83ab854a3d01acc8cc027c522.js",
+    "service-worker.js": "/cra-caddy-docker/service-worker.js",
+    "static/css/main.584f321a.chunk.css.map": "/cra-caddy-docker/static/css/main.584f321a.chunk.css.map",
+    "static/media/logo.svg": "/cra-caddy-docker/static/media/logo.5d5d9eef.svg"
+  }
+}
